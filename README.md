@@ -86,8 +86,5 @@ This project is open-source and free to use for educational and research purpose
 Name**: Parasa Deepika
 
 
-**Internship ID** : INTERNSHIP_174365314467ee0918e7994
-
-
 **LinkedIn** : www.linkedin.com/in/deepika-parasa-658179321
 
