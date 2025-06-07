@@ -38,8 +38,8 @@ This is a simple yet powerful **Language Translator Application** built using **
 
 ## 📸 Screenshots
 
-![UI Screenshot](screenshot1.png)
-> Sample translation from English to Hindi.
+![image](https://github.com/user-attachments/assets/88093d54-6691-49c6-ae78-aa8bda7da537)
+
 
 ---
 
