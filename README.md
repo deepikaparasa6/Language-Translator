@@ -60,9 +60,10 @@ The app supports all major languages like:
 ## 📂 Folder Structure
 
 language-translator/
-├── Language_Translator_Project.ipynb # Main notebook
 
-├── README.md # You're reading it
+── Language_Translator_Project.ipynb # Main notebook
+
+── README.md # You're reading it
 
 ---
 
