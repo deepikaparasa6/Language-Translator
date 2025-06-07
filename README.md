@@ -77,16 +77,17 @@ Run the final Gradio cell to launch the UI
 
 Use the public Gradio link to access the app from any browser
 
-🎓 Internship Relevance
-This project was completed as part of the Microsoft x Edunet Foundation AI Internship. It demonstrates real-world application of NLP and UI deployment using Python.
+**📃 License**
 
-📃 License
 This project is open-source and free to use for educational and research purposes.
 
-Author
-Name: Parasa Deepika
 
-Internship ID : INTERNSHIP_174365314467ee0918e7994
+**Author
+Name**: Parasa Deepika
 
-LinkedIn: www.linkedin.com/in/deepika-parasa-658179321
+
+**Internship ID** : INTERNSHIP_174365314467ee0918e7994
+
+
+**LinkedIn** : www.linkedin.com/in/deepika-parasa-658179321
 
