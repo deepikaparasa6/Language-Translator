@@ -83,7 +83,7 @@ This project was completed as part of the Microsoft x Edunet Foundation AI Inter
 📃 License
 This project is open-source and free to use for educational and research purposes.
 
-🙋‍♀️ Author
+Author
 Name: Parasa Deepika
 
 Internship ID : INTERNSHIP_174365314467ee0918e7994
