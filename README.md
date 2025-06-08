@@ -1,90 +1,75 @@
- 🌐 Language Translator App
+# 🌍 Language Translator using Python & Gradio
 
-This is a simple yet powerful **Language Translator Application** built using **Python**, **Gradio**, and the **Deep-Translator library** (Google Translate API under the hood). It allows users to translate any text from one language to another among the supported languages.
-
----
- 🧠 Project Overview
-
-- 📌 **Objective**: To build an intuitive NLP-based translator that can convert text between multiple languages using pre-built APIs.
-- 🔍 **Use Case**: Helps users break language barriers by translating text instantly via a simple user interface.
-- 💡 **Key Features**:
-  - Input box for text to be translated
-  - Language selection dropdowns for source and target
-  - Translated text shown immediately
-  - Error handling for invalid inputs
+A multilingual text translation web application built using Python, Gradio, and the Deep Translator library. This project leverages the Google Translate API to provide seamless language conversion across a wide range of global languages through a simple, user-friendly interface.
 
 ---
 
- 🛠️ Tech Stack
+## 📌 Project Objective
 
-| Tool/Library     | Purpose                              |
-|------------------|--------------------------------------|
-| Python           | Programming language                 |
-| Gradio           | Building the web UI                  |
-| Deep-Translator  | Using Google Translate API           |
-| Google Colab     | Code development & testing platform  |
+The goal of this project is to develop a lightweight and interactive language translation tool that demonstrates the practical application of Natural Language Processing (NLP) in real-world scenarios.
 
 ---
 
- 🔧 How It Works
+## 🛠️ Technologies Used
 
-1. User enters a sentence in any supported language.
-2. Selects source and target languages from dropdowns.
-3. Hits the submit button.
-4. The `GoogleTranslator` class fetches the translation.
-5. The translated sentence is displayed below the interface.
-
----
-
-## 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/88093d54-6691-49c6-ae78-aa8bda7da537)
-
+- **Python** – Core programming language
+- **Gradio** – For building the interactive user interface
+- **Deep Translator** – For integrating Google Translate functionality
+- **Google Colab** – Platform used for development and testing
 
 ---
 
-## 🌍 Supported Languages
+## ✨ Key Features
 
-The app supports all major languages like:
-- English
-- Hindi
-- Telugu
-- French
-- Spanish
-- German
-- Japanese
-- ...and many more (based on Google Translate support)
+- Translate text between over many languages
+- Auto-detection of supported languages via dropdown
+- Interactive and clean UI built using Gradio
+- Robust error handling for invalid inputs
+- Lightweight and easy to deploy
 
 ---
 
-## 📂 Folder Structure
+## 🎯 How It Works
+
+1. User inputs a sentence to be translated.
+2. Selects the source and target languages.
+3. On clicking “Submit,” the app uses the `GoogleTranslator` class from the Deep Translator package to return the translated text.
+4. The output is displayed instantly on the same interface.
+
+---
+
+
+## 📁 Project Structure
 
 language-translator/
 
-── Language_Translator_Project.ipynb # Main notebook
+├── translator.ipynb        # Google Colab notebook
 
-── README.md # You're reading it
+├── README.md               # Project documentation
+
+└── screenshots/            # UI screenshots for demo/report
 
 ---
 
-## 📥 Installation & Run Instructions
+## 📥 Getting Started
 
-1. Clone the repo or open `Language_Translator_Project.ipynb.ipynb` in Google Colab
+To run this project locally or on Google Colab:
+
+1. Clone the repo or open `translator.ipynb` in Google Colab
 2. Install dependencies:
    ```bash
    !pip install deep-translator gradio
-Run the final Gradio cell to launch the UI
-
-Use the public Gradio link to access the app from any browser
-
-**📃 License**
-
-This project is open-source and free to use for educational and research purposes.
+3. Run the final Gradio cell to launch the UI.
+4. Use the public Gradio link to access the app from any browser.
 
 
-**Author
-Name**: Parasa Deepika
+---
 
+## 👨‍💻 Author
 
-**LinkedIn** : www.linkedin.com/in/deepika-parasa-658179321
+Name: Parasa Deepika
+
+Program: B.Tech, 3rd Year – Computer Science and Engineering 
+
+LinkedIn: www.linkedin.com/in/deepika-parasa-658179321
 
