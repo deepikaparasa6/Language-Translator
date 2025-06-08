@@ -1,16 +1,16 @@
-# 🌍 Language Translator using Python & Gradio
+#  Language Translator using Python & Gradio
 
 A multilingual text translation web application built using Python, Gradio, and the Deep Translator library. This project leverages the Google Translate API to provide seamless language conversion across a wide range of global languages through a simple, user-friendly interface.
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 The goal of this project is to develop a lightweight and interactive language translation tool that demonstrates the practical application of Natural Language Processing (NLP) in real-world scenarios.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python** – Core programming language
 - **Gradio** – For building the interactive user interface
@@ -19,7 +19,7 @@ The goal of this project is to develop a lightweight and interactive language tr
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - Translate text between over many languages
 - Auto-detection of supported languages via dropdown
@@ -29,7 +29,7 @@ The goal of this project is to develop a lightweight and interactive language tr
 
 ---
 
-## 🎯 How It Works
+##  How It Works
 
 1. User inputs a sentence to be translated.
 2. Selects the source and target languages.
@@ -39,7 +39,7 @@ The goal of this project is to develop a lightweight and interactive language tr
 ---
 
 
-## 📁 Project Structure
+##  Project Structure
 
 language-translator/
 
@@ -51,7 +51,7 @@ language-translator/
 
 ---
 
-## 📥 Getting Started
+##  Getting Started
 
 To run this project locally or on Google Colab:
 
@@ -65,7 +65,7 @@ To run this project locally or on Google Colab:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Name: Parasa Deepika
 
