@@ -1,4 +1,4 @@
-#  Language Translator using Python & Gradio.
+#  Language Translator using Python & Gradio
 
 A multilingual text translation web application built using Python, Gradio, and the Deep Translator library. This project leverages the Google Translate API to provide seamless language conversion across a wide range of global languages through a simple, user-friendly interface.
 
